@@ -1,0 +1,4 @@
+C:\xampp\htdocs\LevelMethod\VB\LevelMethod\obj\Debug\Pinteg_Level_Method.vbprojAssemblyReference.cache
+C:\xampp\htdocs\LevelMethod\VB\LevelMethod\obj\Debug\Pinteg_Level_Method.Resources.resources
+C:\xampp\htdocs\LevelMethod\VB\LevelMethod\obj\Debug\Pinteg_Level_Method.vbproj.GenerateResource.cache
+C:\xampp\htdocs\LevelMethod\VB\LevelMethod\obj\Debug\Pinteg_Level_Method.vbproj.CoreCompileInputs.cache
